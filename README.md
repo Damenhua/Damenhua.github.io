@@ -6,4 +6,4 @@
 
 -[Guess-Number](https://damenhua.github.io/Guess-Number/starter/index.html)
 
--[Arrays-control](https://damenhua.github.io/Bankist/starter/index.html)
+
