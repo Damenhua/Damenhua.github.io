@@ -1,4 +1,4 @@
--[FastNote]([https://damenhua.github.io/website-domControl/starter/index.html](https://fast-note-jt43.vercel.app/))
+-[FastNote](https://fast-note-jt43.vercel.app/)
 
 -[Scroll-and-decounce](https://damenhua.github.io/13--Scroll-and-decounce/index-START.html)
 
