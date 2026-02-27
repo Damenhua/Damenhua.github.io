@@ -1,8 +1,4 @@
--[website-domControl](https://damenhua.github.io/website-domControl/starter/index.html)
-
--[Mapty](https://damenhua.github.io/Mapty/starter/index.html)
-
--[local-storage](https://damenhua.github.io/15---LocalStorage/index-START.html)
+-[FastNote]([https://damenhua.github.io/website-domControl/starter/index.html](https://fast-note-jt43.vercel.app/))
 
 -[Scroll-and-decounce](https://damenhua.github.io/13--Scroll-and-decounce/index-START.html)
 
